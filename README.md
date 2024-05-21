@@ -4,7 +4,7 @@ This project is a web application that displays random jokes and allows users to
 ## 🛠️ Setup Instructions
 To set up and run the S-4-API project on your local machine, follow these instructions:
 
-## 🚀 1. Clonar el respositorio:##
+## 🚀 1. Clonar el respositorio:
 First, clone the project repository from GitHub: 
 
 ```bash
@@ -23,7 +23,7 @@ Compile the TypeScript file (e.g., index.ts) using the TypeScript Compiler (tsc)
  tsc index.ts
  ```
 
-## 🌐 5. Launch the Application##
+## 🌐 5. Launch the Application
 You can either start a local development server or open the index.html file directly in your web browser to view the application. For a better development experience, using a local server setup like Live Server in VS Code is recommended.
 
 ## How to Use##
