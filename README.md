@@ -1,4 +1,5 @@
 S-4-API Project
+
 This project is a web application that displays random jokes and allows users to rate them. It also shows weather information for Barcelona.
 
 🛠️ Setup Instructions
